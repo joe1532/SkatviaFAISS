@@ -1,0 +1,6 @@
+build-essential
+cmake
+pkg-config
+libopenblas-dev
+libomp-dev
+swig
